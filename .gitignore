@@ -1,0 +1,4 @@
+node_modules/
+/**/datas/*.json
+.env
+.idea
